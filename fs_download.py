@@ -169,7 +169,7 @@ def store_report(rep):
 
 
 def main():
-    rep = get_report(interval=5)
+    rep = get_report(interval=10)
     end = datetime.today() - timedelta(days=1)  # yesterday
     end = end.strftime(DATE_FORMAT)
     if rep["last_update"] != end:
