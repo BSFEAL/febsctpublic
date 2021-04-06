@@ -95,7 +95,7 @@ def do_round(logger, day=None, day_end=None):
     global max
 
     # fusc_query_url = conf["FUSC"]["rest_query_url"]
-    fusc_query_url = "https://amtsblattportal.ch/api/v1/publications/xml?cantons=TI&publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}"
+    fusc_query_url = "https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}"
 
     page = 0
     try:
