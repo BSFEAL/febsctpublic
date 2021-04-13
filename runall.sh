@@ -1,4 +1,4 @@
-cd /Users/alan/Documents/GitHub/febsctpublic
+cd /home/alan/repo/febsctpublic
 python3 fs_download.py
 git add --all
 git commit -m "`date`"
