@@ -301,3 +301,27 @@ dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
 3512
 https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}DEBUG:__main__:Loading data from FUSC
 DEBUG:__main__:Loading data from FUSC
+DEBUG:__main__:Loading data from FUSC
+DEBUG:__main__:Loading data from FUSC
+DEBUG:__main__:Loading data from FUSC
+ERROR:__main__:'publication'
+ERROR:__main__:# page 44 saved
+
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3590
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3656
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3710
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3808
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3864
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest'])
+3864
+Export complete, output file: 2021-12-30.json
