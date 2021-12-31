@@ -178,3 +178,125 @@ DEBUG:__main__:Loading data from FUSC
 DEBUG:__main__:Loading data from FUSC
 DEBUG:__main__:Loading data from FUSC
 DEBUG:__main__:Loading data from FUSC
+DEBUG:__main__:Loading data from FUSC
+DEBUG:__main__:Loading data from FUSC
+[Errno 2] No such file or directory: 'fusc_rep.json'
+Updare interval [2021-12-25 2021-12-30]
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+100
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+200
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+300
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+400
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+458
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+558
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+658
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+758
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+844
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+944
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1034
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1133
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1232
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1323
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1423
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1523
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1610
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1710
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1772
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1850
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+1921
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2014
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2101
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2200
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2277
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2377
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2477
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2577
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2677
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2777
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2877
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+2976
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3076
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3176
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3217
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3246
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3335
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3433
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
+3512
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
