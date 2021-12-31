@@ -67,9 +67,11 @@ def get_data_interval(fusc_url, start_date, stop_date, page, logger):
     global max
     global out_global
     url = prepare_daily_list_url(fusc_url, start_date, stop_date, page)
-
+    print(url)
+    exit()
     response = requests.get(url)
-
+    print(response.text)
+    exit()
     xpars = xmltodict.parse(response.text)
     output_dict = json.loads(json.dumps(xpars["bulk:bulk-export"]))
     print(output_dict.keys())
@@ -110,7 +112,7 @@ def do_round(logger, day=None, day_end=None):
             logger.debug("Loading data from FUSC")
             if not day_end:
                 day_end = datetime.now().strftime(DATE_FORMAT)
-
+            print(fusc_query_url)
             get_data_interval(
                 fusc_query_url,
                 day,
