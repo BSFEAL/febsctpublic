@@ -299,4 +299,5 @@ dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
 https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
 dict_keys(['@xmlns:bulk', 'total', 'pageRequest', 'publication'])
 3512
-https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}
+https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}DEBUG:__main__:Loading data from FUSC
+DEBUG:__main__:Loading data from FUSC
