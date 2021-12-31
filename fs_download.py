@@ -67,11 +67,7 @@ def get_data_interval(fusc_url, start_date, stop_date, page, logger):
     global max
     global out_global
     url = prepare_daily_list_url(fusc_url, start_date, stop_date, page)
-    print(url)
-    exit()
     response = requests.get(url)
-    print(response.text)
-    exit()
     xpars = xmltodict.parse(response.text)
     output_dict = json.loads(json.dumps(xpars["bulk:bulk-export"]))
     print(output_dict.keys())
