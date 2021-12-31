@@ -325,3 +325,7 @@ https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&p
 dict_keys(['@xmlns:bulk', 'total', 'pageRequest'])
 3864
 Export complete, output file: 2021-12-30.json
+[main 8b08d5b] Fri Dec 31 11:14:14 CET 2021
+ 2 files changed, 25 insertions(+), 1 deletion(-)
+To github.com:BSFEAL/febsctpublic.git
+   c66795b..8b08d5b  main -> main
