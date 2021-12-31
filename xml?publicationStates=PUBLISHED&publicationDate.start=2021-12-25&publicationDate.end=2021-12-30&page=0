@@ -1,0 +1,2965 @@
+<bulk:bulk-export xmlns:bulk="https://shab.ch/bulk-export">
+  <total>4356</total>
+  <pageRequest>
+    <page>0</page>
+    <size>100</size>
+  </pageRequest>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/b7652d57-7183-4796-8c75-0079ef7d1677/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabda/1.14/OR-DA25-export.xsd">
+    <meta>
+      <id>b7652d57-7183-4796-8c75-0079ef7d1677</id>
+      <rubric>OR-DA</rubric>
+      <subRubric>OR-DA25</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>d24865ab-97a5-11eb-9666-0050569db5fb</id>
+        <displayName>Zweckverband Kehrichtverwertung Zürcher Oberland</displayName>
+        <street>Wildbachstrasse</street>
+        <streetNumber>2</streetNumber>
+        <swissZipCode>8340</swissZipCode>
+        <town>Hinwil</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>OR-DA25-0000000011</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2026-12-30</expirationDate>
+      <primaryTenantCode>kabda</primaryTenantCode>
+      <cantons>ZH</cantons>
+      <title>
+        <de>Protokoll 153. DV 26.11.2020</de>
+        <en>Protokoll 153. DV 26.11.2020</en>
+        <it>Protokoll 153. DV 26.11.2020</it>
+        <fr>Protokoll 153. DV 26.11.2020</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/c7f593da-d1fa-4265-b2db-3477048c8f74/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabda/1.14/OR-DA25-export.xsd">
+    <meta>
+      <id>c7f593da-d1fa-4265-b2db-3477048c8f74</id>
+      <rubric>OR-DA</rubric>
+      <subRubric>OR-DA25</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>d24865ab-97a5-11eb-9666-0050569db5fb</id>
+        <displayName>Zweckverband Kehrichtverwertung Zürcher Oberland</displayName>
+        <street>Wildbachstrasse</street>
+        <streetNumber>2</streetNumber>
+        <swissZipCode>8340</swissZipCode>
+        <town>Hinwil</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>OR-DA25-0000000012</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2026-12-30</expirationDate>
+      <primaryTenantCode>kabda</primaryTenantCode>
+      <cantons>ZH</cantons>
+      <title>
+        <de>Protokoll 153. DV 26.11.2020</de>
+        <en>Protokoll 153. DV 26.11.2020</en>
+        <it>Protokoll 153. DV 26.11.2020</it>
+        <fr>Protokoll 153. DV 26.11.2020</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/2a0f252b-8ef8-49a2-968c-ae9f4f4a0525/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/KA-TI50-export.xsd">
+    <meta>
+      <id>2a0f252b-8ef8-49a2-968c-ae9f4f4a0525</id>
+      <rubric>KA-TI</rubric>
+      <subRubric>KA-TI50</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>6b8aa6d9-5ef1-11eb-b250-0050569de354</id>
+        <displayName>Repubblica e Cantone del Ticino - Autorità di vigilanza sull'esercizio delle professioni di fiduciario</displayName>
+        <street>Via Canonico Ghiringhelli</street>
+        <streetNumber>19</streetNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>KA-TI50-0000000035</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2024-12-30</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Albo dei fiduciari del Cantone Ticino</de>
+        <en>Albo dei fiduciari del Cantone Ticino</en>
+        <it>Albo dei fiduciari del Cantone Ticino</it>
+        <fr>Albo dei fiduciari del Cantone Ticino</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/a3594477-4c35-4e46-880d-2032fd5b089f/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/KA-TI60-export.xsd">
+    <meta>
+      <id>a3594477-4c35-4e46-880d-2032fd5b089f</id>
+      <rubric>KA-TI</rubric>
+      <subRubric>KA-TI60</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>aa1a2be9-6d13-11eb-aaa9-0050569d3c43</id>
+        <displayName>Repubblica e Cantone del Ticino</displayName>
+        <street>Piazza Governo</street>
+        <streetNumber>7</streetNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>KA-TI60-0000000614</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2022-02-28</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Notifica assegnazione termine nella forma degli assenti</de>
+        <en>Notifica assegnazione termine nella forma degli assenti</en>
+        <it>Notifica assegnazione termine nella forma degli assenti</it>
+        <fr>Notifica assegnazione termine nella forma degli assenti</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/af0ebee9-c907-4cd6-b7c1-8b602192296f/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/KO-TI50-export.xsd">
+    <meta>
+      <id>af0ebee9-c907-4cd6-b7c1-8b602192296f</id>
+      <rubric>KO-TI</rubric>
+      <subRubric>KO-TI50</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>67398d9c-572a-11eb-a831-0050569d3c43</id>
+        <displayName>Repubblica e Cantone del Ticino - Servizio di Segreteria del Consiglio di Stato</displayName>
+        <street>Piazza Governo</street>
+        <streetNumber>6</streetNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>KO-TI50-0000000493</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2022-01-30</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Avviso di pubblicazione di concessione di aiuti agli investimenti per i lavori di ripristino pascoli Alpe Croce/Lucomagno a seguito di danni alluvionali del mese di agosto e di ottobre 2019 (art. 97 Lagr.)</de>
+        <en>Avviso di pubblicazione di concessione di aiuti agli investimenti per i lavori di ripristino pascoli Alpe Croce/Lucomagno a seguito di danni alluvionali del mese di agosto e di ottobre 2019 (art. 97 Lagr.)</en>
+        <it>Avviso di pubblicazione di concessione di aiuti agli investimenti per i lavori di ripristino pascoli Alpe Croce/Lucomagno a seguito di danni alluvionali del mese di agosto e di ottobre 2019 (art. 97 Lagr.)</it>
+        <fr>Avviso di pubblicazione di concessione di aiuti agli investimenti per i lavori di ripristino pascoli Alpe Croce/Lucomagno a seguito di danni alluvionali del mese di agosto e di ottobre 2019 (art. 97 Lagr.)</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/bc18ff62-201a-4135-ab0a-a4dd2828b4a7/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/KO-TI50-export.xsd">
+    <meta>
+      <id>bc18ff62-201a-4135-ab0a-a4dd2828b4a7</id>
+      <rubric>KO-TI</rubric>
+      <subRubric>KO-TI50</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>36059527-8242-11eb-958e-0050569d3c43</id>
+        <displayName>Comune di Vacallo</displayName>
+        <street>Piazza Municipio</street>
+        <swissZipCode>6833</swissZipCode>
+        <town>Vacallo</town>
+        <containsPostOfficeBox>true</containsPostOfficeBox>
+        <postOfficeBox>
+          <number>96-98</number>
+          <swissZipCode>6833</swissZipCode>
+          <town>Vacallo</town>
+        </postOfficeBox>
+      </registrationOffice>
+      <publicationNumber>KO-TI50-0000000494</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2022-02-28</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Avviso di deposito atti variante di Piano regolatore del Comune di Vacallo</de>
+        <en>Avviso di deposito atti variante di Piano regolatore del Comune di Vacallo</en>
+        <it>Avviso di deposito atti variante di Piano regolatore del Comune di Vacallo</it>
+        <fr>Avviso di deposito atti variante di Piano regolatore del Comune di Vacallo</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/1a7eca84-bad9-4980-ad91-766fcd00ec40/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/KO-TI50-export.xsd">
+    <meta>
+      <id>1a7eca84-bad9-4980-ad91-766fcd00ec40</id>
+      <rubric>KO-TI</rubric>
+      <subRubric>KO-TI50</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>f74ed695-5ee6-11eb-a86d-0050569d3c43</id>
+        <displayName>Comune di Castel San Pietro</displayName>
+        <street>Via alla Chiesa</street>
+        <streetNumber>10</streetNumber>
+        <swissZipCode>6874</swissZipCode>
+        <town>Castel San Pietro</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>KO-TI50-0000000491</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2022-01-30</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Avviso di pubblicazione</de>
+        <en>Avviso di pubblicazione</en>
+        <it>Avviso di pubblicazione</it>
+        <fr>Avviso di pubblicazione</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/2c800400-e197-4b5a-999d-56238575975f/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/AI-TI20-export.xsd">
+    <meta>
+      <id>2c800400-e197-4b5a-999d-56238575975f</id>
+      <rubric>AI-TI</rubric>
+      <subRubric>AI-TI20</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>5b177b28-67bc-11eb-8410-0050569d3c43</id>
+        <displayName>Repubblica e Cantone del Ticino - Sezione delle risorse umane</displayName>
+        <street>Piazza Governo</street>
+        <streetNumber>7</streetNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>AI-TI20-0000000808</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2022-01-30</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Stelleninserat für Collaboratore/trice scientifico/a I oppure collaboratore/trice scientifico/a II presso il Dipartimento del territorio, Ufficio controlling e dei servizi centrali (concorso 240/21), 50%</de>
+        <en>EN_Stelleninserat für Collaboratore/trice scientifico/a I oppure collaboratore/trice scientifico/a II presso il Dipartimento del territorio, Ufficio controlling e dei servizi centrali (concorso 240/21), 50%</en>
+        <it>Annuncio di lavoro per Collaboratore/trice scientifico/a I oppure collaboratore/trice scientifico/a II presso il Dipartimento del territorio, Ufficio controlling e dei servizi centrali (concorso 240/21), 50%</it>
+        <fr>FR_Stelleninserat für Collaboratore/trice scientifico/a I oppure collaboratore/trice scientifico/a II presso il Dipartimento del territorio, Ufficio controlling e dei servizi centrali (concorso 240/21), 50%</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/0350df37-0770-4f15-883d-562005adc6a5/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/BP-TI10-export.xsd">
+    <meta>
+      <id>0350df37-0770-4f15-883d-562005adc6a5</id>
+      <rubric>BP-TI</rubric>
+      <subRubric>BP-TI10</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>ae19637f-655f-11eb-9349-0050569d3c43</id>
+        <displayName>Comune di Acquarossa</displayName>
+        <street>Via Bosco Ciossera</street>
+        <streetNumber>9</streetNumber>
+        <swissZipCode>6716</swissZipCode>
+        <town>Acquarossa</town>
+        <containsPostOfficeBox>true</containsPostOfficeBox>
+        <postOfficeBox>
+          <number>144</number>
+          <swissZipCode>6716</swissZipCode>
+          <town>Acquarossa</town>
+        </postOfficeBox>
+      </registrationOffice>
+      <publicationNumber>BP-TI10-0000000997</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2022-03-30</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Bauprojekt: 6716 Acquarossa</de>
+        <en>Bauprojekt: Acquarossa</en>
+        <it>Domanda di costruzione: Acquarossa</it>
+        <fr>Bauprojekt: Acquarossa</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/8a67df1d-f17b-4c52-b08d-68858c322f1b/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/kabti/1.14/GB-TI30-export.xsd">
+    <meta>
+      <id>8a67df1d-f17b-4c52-b08d-68858c322f1b</id>
+      <rubric>GB-TI</rubric>
+      <subRubric>GB-TI30</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>67398d9c-572a-11eb-a831-0050569d3c43</id>
+        <displayName>Repubblica e Cantone del Ticino - Servizio di Segreteria del Consiglio di Stato</displayName>
+        <street>Piazza Governo</street>
+        <streetNumber>6</streetNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>GB-TI30-0000000566</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <expirationDate>2022-01-30</expirationDate>
+      <primaryTenantCode>kabti</primaryTenantCode>
+      <cantons>TI</cantons>
+      <title>
+        <de>Pubblicazione divieto giudiziale (art. 259 CPC)</de>
+        <en>GB-TI30-0000000566</en>
+        <it>Pubblicazione divieto giudiziale (art. 259 CPC)</it>
+        <fr>GB-TI30-0000000566</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/c3ac1475-12ad-41e2-b78f-7191d70af05f/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>c3ac1475-12ad-41e2-b78f-7191d70af05f</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371166</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>AI</cantons>
+      <title>
+        <de>Löschung Fiegl &amp; Spielberger Schweiz AG in Liquidation, Appenzell</de>
+        <en>Deletion Fiegl &amp; Spielberger Schweiz AG in Liquidation, Appenzell</en>
+        <it>Cancellazione Fiegl &amp; Spielberger Schweiz AG in Liquidation, Appenzell</it>
+        <fr>Annulation Fiegl &amp; Spielberger Schweiz AG in Liquidation, Appenzell</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/e3700ff8-7ed5-456a-9a84-9e680d16e46a/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>e3700ff8-7ed5-456a-9a84-9e680d16e46a</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371232</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>SG</cantons>
+      <title>
+        <de>Löschung Carrera Consult Ltd. in Liquidation, Rapperswil-Jona</de>
+        <en>Deletion Carrera Consult Ltd. in Liquidation, Rapperswil-Jona</en>
+        <it>Cancellazione Carrera Consult Ltd. in Liquidation, Rapperswil-Jona</it>
+        <fr>Annulation Carrera Consult Ltd. in Liquidation, Rapperswil-Jona</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f7e19bab-7c14-4717-ad57-46abf1e7014a/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>f7e19bab-7c14-4717-ad57-46abf1e7014a</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371309</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Löschung Clerfin SA in liquidazione, Chiasso</de>
+        <en>Deletion Clerfin SA in liquidazione, Chiasso</en>
+        <it>Cancellazione Clerfin SA in liquidazione, Chiasso</it>
+        <fr>Annulation Clerfin SA in liquidazione, Chiasso</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/1f2c370c-de35-45e3-ad03-8ec87695753e/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>1f2c370c-de35-45e3-ad03-8ec87695753e</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371233</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>SG</cantons>
+      <title>
+        <de>Löschung Elatron AG in Liquidation, Wartau</de>
+        <en>Deletion Elatron AG in Liquidation, Wartau</en>
+        <it>Cancellazione Elatron AG in Liquidation, Wartau</it>
+        <fr>Annulation Elatron AG in Liquidation, Wartau</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/bf942e79-eb8b-48ae-8ea1-5f5ef475fc16/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>bf942e79-eb8b-48ae-8ea1-5f5ef475fc16</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371235</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>SG</cantons>
+      <title>
+        <de>Löschung Gallusland-Verwaltungen AG, St. Gallen</de>
+        <en>Deletion Gallusland-Verwaltungen AG, St. Gallen</en>
+        <it>Cancellazione Gallusland-Verwaltungen AG, St. Gallen</it>
+        <fr>Annulation Gallusland-Verwaltungen AG, St. Gallen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/565cd7a5-52fe-43f6-a1ee-b8c72e368ccf/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>565cd7a5-52fe-43f6-a1ee-b8c72e368ccf</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370997</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung MPS Prisma Concept AG in Liquidation, Horw</de>
+        <en>Deletion MPS Prisma Concept AG in Liquidation, Horw</en>
+        <it>Cancellazione MPS Prisma Concept AG in Liquidation, Horw</it>
+        <fr>Annulation MPS Prisma Concept AG in Liquidation, Horw</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/fe55330f-8f7d-40c5-be88-de74b8f40d98/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>fe55330f-8f7d-40c5-be88-de74b8f40d98</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371157</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>BS</cantons>
+      <title>
+        <de>Löschung Multi Trade &amp; Consulting Basel, K. Huber, Basel</de>
+        <en>Deletion Multi Trade &amp; Consulting Basel, K. Huber, Basel</en>
+        <it>Cancellazione Multi Trade &amp; Consulting Basel, K. Huber, Basel</it>
+        <fr>Annulation Multi Trade &amp; Consulting Basel, K. Huber, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/ce2a0d63-c7cf-4dcb-a66b-25625b756295/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>ce2a0d63-c7cf-4dcb-a66b-25625b756295</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370989</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung Faresto AG in Liquidation, Emmen</de>
+        <en>Deletion Faresto AG in Liquidation, Emmen</en>
+        <it>Cancellazione Faresto AG in Liquidation, Emmen</it>
+        <fr>Annulation Faresto AG in Liquidation, Emmen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/618d3b23-4654-4655-993f-24e0dc35b35a/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>618d3b23-4654-4655-993f-24e0dc35b35a</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371120</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Löschung DGM Pharma-Apparate Handel AG in Liquidation, Zug</de>
+        <en>Deletion DGM Pharma-Apparate Handel AG in Liquidation, Zug</en>
+        <it>Cancellazione DGM Pharma-Apparate Handel AG in Liquidation, Zug</it>
+        <fr>Annulation DGM Pharma-Apparate Handel AG in Liquidation, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/4c05b7e3-0a61-41de-aad0-fbece5187031/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>4c05b7e3-0a61-41de-aad0-fbece5187031</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370998</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung Naturosciences GmbH in Liquidation, Luzern</de>
+        <en>Deletion Naturosciences GmbH in Liquidation, Luzern</en>
+        <it>Cancellazione Naturosciences GmbH in Liquidation, Luzern</it>
+        <fr>Annulation Naturosciences GmbH in Liquidation, Luzern</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/3f262f33-d16c-4c10-b31d-f8fc7aacdb16/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>3f262f33-d16c-4c10-b31d-f8fc7aacdb16</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371000</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung R. Zuppinger Gemälde AG in Liquidation, Hitzkirch</de>
+        <en>Deletion R. Zuppinger Gemälde AG in Liquidation, Hitzkirch</en>
+        <it>Cancellazione R. Zuppinger Gemälde AG in Liquidation, Hitzkirch</it>
+        <fr>Annulation R. Zuppinger Gemälde AG in Liquidation, Hitzkirch</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/18b7baae-6c97-4a16-aa4b-a3341f193963/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>18b7baae-6c97-4a16-aa4b-a3341f193963</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005371002</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung Stutzberg AG in Liquidation, Greppen</de>
+        <en>Deletion Stutzberg AG in Liquidation, Greppen</en>
+        <it>Cancellazione Stutzberg AG in Liquidation, Greppen</it>
+        <fr>Annulation Stutzberg AG in Liquidation, Greppen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/db881167-4f92-48d5-85bf-8cceff285f53/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>db881167-4f92-48d5-85bf-8cceff285f53</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>fr</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371325</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+      <cantons>NE</cantons>
+      <title>
+        <de>Mutation ELFIX Production SA, La Chaux-de-Fonds</de>
+        <en>Change ELFIX Production SA, La Chaux-de-Fonds</en>
+        <it>Cambiamenti ELFIX Production SA, La Chaux-de-Fonds</it>
+        <fr>Mutation ELFIX Production SA, La Chaux-de-Fonds</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/ca553189-0399-47b6-9553-a3d2b8aab163/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>ca553189-0399-47b6-9553-a3d2b8aab163</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>fr</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371317</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+      <cantons>NE</cantons>
+      <title>
+        <de>Mutation 13Arty Consulting SA, Neuchâtel</de>
+        <en>Change 13Arty Consulting SA, Neuchâtel</en>
+        <it>Cambiamenti 13Arty Consulting SA, Neuchâtel</it>
+        <fr>Mutation 13Arty Consulting SA, Neuchâtel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/b991213f-c4d7-44f6-ab4f-766df4ad974c/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>b991213f-c4d7-44f6-ab4f-766df4ad974c</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370944</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>BE</cantons>
+      <title>
+        <de>Löschung CB2019 SA in Liquidation, Bern</de>
+        <en>Deletion CB2019 SA in Liquidation, Bern</en>
+        <it>Cancellazione CB2019 SA in Liquidation, Bern</it>
+        <fr>Annulation CB2019 SA in Liquidation, Bern</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f4742aaa-dad0-401b-9a2c-97c68ee1480d/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>f4742aaa-dad0-401b-9a2c-97c68ee1480d</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370949</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>BE</cantons>
+      <title>
+        <de>Löschung MF Liegenschaften AG in Liquidation, Fraubrunnen</de>
+        <en>Deletion MF Liegenschaften AG in Liquidation, Fraubrunnen</en>
+        <it>Cancellazione MF Liegenschaften AG in Liquidation, Fraubrunnen</it>
+        <fr>Annulation MF Liegenschaften AG in Liquidation, Fraubrunnen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/c92f0968-4675-4ca3-84d5-09f77830c959/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>c92f0968-4675-4ca3-84d5-09f77830c959</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370995</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung Josef Waller Zweirad-Shop GmbH in Liq., Büron</de>
+        <en>Deletion Josef Waller Zweirad-Shop GmbH in Liq., Büron</en>
+        <it>Cancellazione Josef Waller Zweirad-Shop GmbH in Liq., Büron</it>
+        <fr>Annulation Josef Waller Zweirad-Shop GmbH in Liq., Büron</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/33a06c0a-f56f-4d4f-8e9f-419a4e303851/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>33a06c0a-f56f-4d4f-8e9f-419a4e303851</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370986</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung Chäslädeli Menznau Albert Steinmann, Menznau</de>
+        <en>Deletion Chäslädeli Menznau Albert Steinmann, Menznau</en>
+        <it>Cancellazione Chäslädeli Menznau Albert Steinmann, Menznau</it>
+        <fr>Annulation Chäslädeli Menznau Albert Steinmann, Menznau</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/967e96e7-b88b-4e6f-9bc8-c4d653a4f5bf/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>967e96e7-b88b-4e6f-9bc8-c4d653a4f5bf</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370993</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>LU</cantons>
+      <title>
+        <de>Löschung Golfrestaurant Aschwanden, Flühli</de>
+        <en>Deletion Golfrestaurant Aschwanden, Flühli</en>
+        <it>Cancellazione Golfrestaurant Aschwanden, Flühli</it>
+        <fr>Annulation Golfrestaurant Aschwanden, Flühli</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/3611d56a-6cc1-4497-ae57-3b41dae9e857/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>3611d56a-6cc1-4497-ae57-3b41dae9e857</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370947</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>BE</cantons>
+      <title>
+        <de>Löschung Leaders Solutions AG, Bern</de>
+        <en>Deletion Leaders Solutions AG, Bern</en>
+        <it>Cancellazione Leaders Solutions AG, Bern</it>
+        <fr>Annulation Leaders Solutions AG, Bern</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/de8bf4cb-ba3d-4295-b493-8a191c7746fb/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>de8bf4cb-ba3d-4295-b493-8a191c7746fb</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371299</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation SMB Holding AG, Risch, neu SMB Holding SA, Sant'Antonino</de>
+        <en>Change SMB Holding AG, Risch, new SMB Holding SA, Sant'Antonino</en>
+        <it>Cambiamenti SMB Holding AG, Risch, nuovo SMB Holding SA, Sant'Antonino</it>
+        <fr>Mutation SMB Holding AG, Risch, nouveau SMB Holding SA, Sant'Antonino</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/9f06ad7a-9e01-4d49-94e7-cf23eefb6368/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>9f06ad7a-9e01-4d49-94e7-cf23eefb6368</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371302</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Tecnogeo GC SA, Riva San Vitale</de>
+        <en>Change Tecnogeo GC SA, Riva San Vitale</en>
+        <it>Cambiamenti Tecnogeo GC SA, Riva San Vitale</it>
+        <fr>Mutation Tecnogeo GC SA, Riva San Vitale</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/514abc68-020b-4059-94fb-e5625bb2f4e8/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>514abc68-020b-4059-94fb-e5625bb2f4e8</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371303</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Tex Way Sagl, Chiasso</de>
+        <en>Change Tex Way Sagl, Chiasso</en>
+        <it>Cambiamenti Tex Way Sagl, Chiasso</it>
+        <fr>Mutation Tex Way Sagl, Chiasso</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/8368a646-2b90-4965-875e-eb7f37520301/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR03-export.xsd">
+    <meta>
+      <id>8368a646-2b90-4965-875e-eb7f37520301</id>
+      <rubric>HR</rubric>
+      <subRubric>HR03</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR03-1005370950</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <cantons>BE</cantons>
+      <title>
+        <de>Löschung NUR Bau Fuhrimann, Bern</de>
+        <en>Deletion NUR Bau Fuhrimann, Bern</en>
+        <it>Cancellazione NUR Bau Fuhrimann, Bern</it>
+        <fr>Annulation NUR Bau Fuhrimann, Bern</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/ba12d6f1-7cb3-4c48-b0ba-5eccb68665ca/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>ba12d6f1-7cb3-4c48-b0ba-5eccb68665ca</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371288</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Mya International SA in liquidazione, Lugano</de>
+        <en>Change Mya International SA in liquidazione, Lugano</en>
+        <it>Cambiamenti Mya International SA in liquidazione, Lugano</it>
+        <fr>Mutation Mya International SA in liquidazione, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/7b494414-c896-44ed-ac12-17e60b3e5656/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>7b494414-c896-44ed-ac12-17e60b3e5656</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371296</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Sanoplast Lugano SA, Lugano</de>
+        <en>Change Sanoplast Lugano SA, Lugano</en>
+        <it>Cambiamenti Sanoplast Lugano SA, Lugano</it>
+        <fr>Mutation Sanoplast Lugano SA, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/db052fd1-265f-4e6e-a86e-cca71087fa35/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>db052fd1-265f-4e6e-a86e-cca71087fa35</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371290</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Padbrook Limited, Cardiff, Lugano Swiss Branch, Lugano</de>
+        <en>Change Padbrook Limited, Cardiff, Lugano Swiss Branch, Lugano</en>
+        <it>Cambiamenti Padbrook Limited, Cardiff, Lugano Swiss Branch, Lugano</it>
+        <fr>Mutation Padbrook Limited, Cardiff, Lugano Swiss Branch, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/626ebcf3-0d69-4958-b971-092c2a008fc1/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>626ebcf3-0d69-4958-b971-092c2a008fc1</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>fr</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371313</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+      <cantons>NE</cantons>
+      <title>
+        <de>Mutation Garage des Jordils S.A., Boudry</de>
+        <en>Change Garage des Jordils S.A., Boudry</en>
+        <it>Cambiamenti Garage des Jordils S.A., Boudry</it>
+        <fr>Mutation Garage des Jordils S.A., Boudry</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/0ab7a9ce-a96a-43a5-90bf-baa439c3577d/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>0ab7a9ce-a96a-43a5-90bf-baa439c3577d</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371276</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation IES Medical Sagl, Chiasso</de>
+        <en>Change IES Medical Sagl, Chiasso</en>
+        <it>Cambiamenti IES Medical Sagl, Chiasso</it>
+        <fr>Mutation IES Medical Sagl, Chiasso</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/c8f788bf-0461-4d87-87bc-0c3c54e9baf9/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>c8f788bf-0461-4d87-87bc-0c3c54e9baf9</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371277</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation IMMOVENTURA SA, Lugano</de>
+        <en>Change IMMOVENTURA SA, Lugano</en>
+        <it>Cambiamenti IMMOVENTURA SA, Lugano</it>
+        <fr>Mutation IMMOVENTURA SA, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/6577c9fa-c7d8-4eaa-b297-3af3a745c3d0/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>6577c9fa-c7d8-4eaa-b297-3af3a745c3d0</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371273</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Golden Bridge Consulting Sagl, Agno</de>
+        <en>Change Golden Bridge Consulting Sagl, Agno</en>
+        <it>Cambiamenti Golden Bridge Consulting Sagl, Agno</it>
+        <fr>Mutation Golden Bridge Consulting Sagl, Agno</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/d13320aa-46db-46d8-970a-cbc772ab7161/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>d13320aa-46db-46d8-970a-cbc772ab7161</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371283</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation LEGACY TRUST Sagl, Lugano</de>
+        <en>Change LEGACY TRUST Sagl, Lugano</en>
+        <it>Cambiamenti LEGACY TRUST Sagl, Lugano</it>
+        <fr>Mutation LEGACY TRUST Sagl, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f7b9da76-ce53-4204-95ac-7999f71a5c8f/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>f7b9da76-ce53-4204-95ac-7999f71a5c8f</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371280</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Jelurida Swiss SA, Lugano</de>
+        <en>Change Jelurida Swiss SA, Lugano</en>
+        <it>Cambiamenti Jelurida Swiss SA, Lugano</it>
+        <fr>Mutation Jelurida Swiss SA, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/598b8f55-c440-40ee-9eff-3dff4cfdbd2d/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>598b8f55-c440-40ee-9eff-3dff4cfdbd2d</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371281</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Kimonia SA, Lugano</de>
+        <en>Change Kimonia SA, Lugano</en>
+        <it>Cambiamenti Kimonia SA, Lugano</it>
+        <fr>Mutation Kimonia SA, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/183ddbe3-0b4b-4c03-93b8-947b790e662c/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>183ddbe3-0b4b-4c03-93b8-947b790e662c</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371254</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Audio Trading SA, Chiasso</de>
+        <en>Change Audio Trading SA, Chiasso</en>
+        <it>Cambiamenti Audio Trading SA, Chiasso</it>
+        <fr>Mutation Audio Trading SA, Chiasso</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/7893308c-0218-4388-a0b6-5c8726fe13a3/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>7893308c-0218-4388-a0b6-5c8726fe13a3</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371229</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation zahn and more gmbh, Steinach</de>
+        <en>Change zahn and more gmbh, Steinach</en>
+        <it>Cambiamenti zahn and more gmbh, Steinach</it>
+        <fr>Mutation zahn and more gmbh, Steinach</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/e8e8ce1e-dfdd-41a1-8332-e33834b08a85/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>e8e8ce1e-dfdd-41a1-8332-e33834b08a85</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371225</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Vertragsproduzentengemeinschaft VPG AG, Wartau</de>
+        <en>Change Vertragsproduzentengemeinschaft VPG AG, Wartau</en>
+        <it>Cambiamenti Vertragsproduzentengemeinschaft VPG AG, Wartau</it>
+        <fr>Mutation Vertragsproduzentengemeinschaft VPG AG, Wartau</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/8e078535-bda1-4ff3-ae1a-6f4f74517767/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>8e078535-bda1-4ff3-ae1a-6f4f74517767</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371265</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation CSCD LTD, Limassol, Succursale di Lugano, Lugano</de>
+        <en>Change CSCD LTD, Limassol, Succursale di Lugano, Lugano</en>
+        <it>Cambiamenti CSCD LTD, Limassol, Succursale di Lugano, Lugano</it>
+        <fr>Mutation CSCD LTD, Limassol, Succursale di Lugano, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/0f39d8cc-dfc1-491a-8bc3-9fd36d78c4c6/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>0f39d8cc-dfc1-491a-8bc3-9fd36d78c4c6</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371253</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation APC-Pro SA, Lugano</de>
+        <en>Change APC-Pro SA, Lugano</en>
+        <it>Cambiamenti APC-Pro SA, Lugano</it>
+        <fr>Mutation APC-Pro SA, Lugano</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/1c12223f-8277-447a-b094-b4794eb01282/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>1c12223f-8277-447a-b094-b4794eb01282</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371228</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Wrkout Performance GmbH, Diepoldsau, neu Wrkout Performance GmbH in Liquidation</de>
+        <en>Change Wrkout Performance GmbH, Diepoldsau, new Wrkout Performance GmbH in Liquidation</en>
+        <it>Cambiamenti Wrkout Performance GmbH, Diepoldsau, nuovo Wrkout Performance GmbH in Liquidation</it>
+        <fr>Mutation Wrkout Performance GmbH, Diepoldsau, nouveau Wrkout Performance GmbH in Liquidation</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/1c8ef51f-5fc6-4112-88cb-6ed1aaa8f144/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>1c8ef51f-5fc6-4112-88cb-6ed1aaa8f144</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371226</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation von Rotz Bad Ragaz AG, Bad Ragaz</de>
+        <en>Change von Rotz Bad Ragaz AG, Bad Ragaz</en>
+        <it>Cambiamenti von Rotz Bad Ragaz AG, Bad Ragaz</it>
+        <fr>Mutation von Rotz Bad Ragaz AG, Bad Ragaz</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/6f60fb8f-81ea-444a-beff-92db669aa3a3/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>6f60fb8f-81ea-444a-beff-92db669aa3a3</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>it</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371257</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+      <cantons>TI</cantons>
+      <secondaryTenants>
+        <tenantCode>kabti</tenantCode>
+        <publicationDate>2021-12-30</publicationDate>
+      </secondaryTenants>
+      <title>
+        <de>Mutation Banca Raiffeisen Tre Valli società cooperativa, Biasca</de>
+        <en>Change Banca Raiffeisen Tre Valli società cooperativa, Biasca</en>
+        <it>Cambiamenti Banca Raiffeisen Tre Valli società cooperativa, Biasca</it>
+        <fr>Mutation Banca Raiffeisen Tre Valli società cooperativa, Biasca</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f5dc2efa-f3fe-440b-842a-257c5a6ade8d/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>f5dc2efa-f3fe-440b-842a-257c5a6ade8d</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371220</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Stieger Treuhand AG, Rapperswil-Jona</de>
+        <en>Change Stieger Treuhand AG, Rapperswil-Jona</en>
+        <it>Cambiamenti Stieger Treuhand AG, Rapperswil-Jona</it>
+        <fr>Mutation Stieger Treuhand AG, Rapperswil-Jona</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/9e5654f8-7a5e-4b4e-9db9-5ab1556e01f0/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>9e5654f8-7a5e-4b4e-9db9-5ab1556e01f0</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371208</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation NetFormula GmbH, Luzern, neu St. Gallen</de>
+        <en>Change NetFormula GmbH, Luzern, new St. Gallen</en>
+        <it>Cambiamenti NetFormula GmbH, Luzern, nuovo St. Gallen</it>
+        <fr>Mutation NetFormula GmbH, Luzern, nouveau St. Gallen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/5c8ccfc7-9994-4563-be75-1554d048c59c/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>5c8ccfc7-9994-4563-be75-1554d048c59c</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371195</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation GIGATHERM Mikrowellen AG, Flawil</de>
+        <en>Change GIGATHERM Mikrowellen AG, Flawil</en>
+        <it>Cambiamenti GIGATHERM Mikrowellen AG, Flawil</it>
+        <fr>Mutation GIGATHERM Mikrowellen AG, Flawil</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/4ba4474f-7abd-4e3f-8ac6-c13d14aa04ed/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>4ba4474f-7abd-4e3f-8ac6-c13d14aa04ed</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371202</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation La Culina AG, Bad Ragaz</de>
+        <en>Change La Culina AG, Bad Ragaz</en>
+        <it>Cambiamenti La Culina AG, Bad Ragaz</it>
+        <fr>Mutation La Culina AG, Bad Ragaz</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f96c9a6f-fd51-49d5-8166-9c4fed747d38/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>f96c9a6f-fd51-49d5-8166-9c4fed747d38</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371199</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Karl Vögele AG, Uznach</de>
+        <en>Change Karl Vögele AG, Uznach</en>
+        <it>Cambiamenti Karl Vögele AG, Uznach</it>
+        <fr>Mutation Karl Vögele AG, Uznach</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/bc0d7b7c-65cc-4707-84ae-cdbc59d04c78/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>bc0d7b7c-65cc-4707-84ae-cdbc59d04c78</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371212</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation RESCH Wohnbau AG, Kirchberg (SG)</de>
+        <en>Change RESCH Wohnbau AG, Kirchberg (SG)</en>
+        <it>Cambiamenti RESCH Wohnbau AG, Kirchberg (SG)</it>
+        <fr>Mutation RESCH Wohnbau AG, Kirchberg (SG)</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/38a45390-f22c-43ac-8e83-07cf5173594e/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>38a45390-f22c-43ac-8e83-07cf5173594e</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371214</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Sarnag AG, St. Gallen</de>
+        <en>Change Sarnag AG, St. Gallen</en>
+        <it>Cambiamenti Sarnag AG, St. Gallen</it>
+        <fr>Mutation Sarnag AG, St. Gallen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/2b0b8128-b3b9-44f2-9f9b-c822c642ef0b/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>2b0b8128-b3b9-44f2-9f9b-c822c642ef0b</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371211</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation RBcounting GmbH, St. Gallen</de>
+        <en>Change RBcounting GmbH, St. Gallen</en>
+        <it>Cambiamenti RBcounting GmbH, St. Gallen</it>
+        <fr>Mutation RBcounting GmbH, St. Gallen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/00f305b4-c344-4e31-9740-7502fb2afdb4/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>00f305b4-c344-4e31-9740-7502fb2afdb4</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371217</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Schweizerische Rentnerstiftung SRS, St. Gallen</de>
+        <en>Change Schweizerische Rentnerstiftung SRS, St. Gallen</en>
+        <it>Cambiamenti Schweizerische Rentnerstiftung SRS, St. Gallen</it>
+        <fr>Mutation Schweizerische Rentnerstiftung SRS, St. Gallen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/d3cf0d50-1e4a-4e2d-9bc1-18c77ae6696b/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>d3cf0d50-1e4a-4e2d-9bc1-18c77ae6696b</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371207</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation N&amp;N Mechanik AG, Au (SG)</de>
+        <en>Change N&amp;N Mechanik AG, Au (SG)</en>
+        <it>Cambiamenti N&amp;N Mechanik AG, Au (SG)</it>
+        <fr>Mutation N&amp;N Mechanik AG, Au (SG)</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/5ac10d80-426c-4762-a763-64b9f691df9e/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>5ac10d80-426c-4762-a763-64b9f691df9e</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371149</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation Predigerhof AG, Basel</de>
+        <en>Change Predigerhof AG, Basel</en>
+        <it>Cambiamenti Predigerhof AG, Basel</it>
+        <fr>Mutation Predigerhof AG, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/abb46cbb-6b3f-4931-a3b4-df4cd34a8021/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>abb46cbb-6b3f-4931-a3b4-df4cd34a8021</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371186</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Bäckerei-Konditorei Spirig &amp; Berchtold GmbH, Wartau</de>
+        <en>Change Bäckerei-Konditorei Spirig &amp; Berchtold GmbH, Wartau</en>
+        <it>Cambiamenti Bäckerei-Konditorei Spirig &amp; Berchtold GmbH, Wartau</it>
+        <fr>Mutation Bäckerei-Konditorei Spirig &amp; Berchtold GmbH, Wartau</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/8aac1058-752e-45ed-bb34-ea74537279c3/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>8aac1058-752e-45ed-bb34-ea74537279c3</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371183</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Allemann Gerüstbau AG in Liquidation, Rorschach, neu Allemann Gerüstbau AG</de>
+        <en>Change Allemann Gerüstbau AG in Liquidation, Rorschach, new Allemann Gerüstbau AG</en>
+        <it>Cambiamenti Allemann Gerüstbau AG in Liquidation, Rorschach, nuovo Allemann Gerüstbau AG</it>
+        <fr>Mutation Allemann Gerüstbau AG in Liquidation, Rorschach, nouveau Allemann Gerüstbau AG</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/61dcc8d1-1653-4dfd-b516-deb3c064dac0/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>61dcc8d1-1653-4dfd-b516-deb3c064dac0</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371147</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation J&amp;A Consulting and Management AG, Zug, neu Basel</de>
+        <en>Change J&amp;A Consulting and Management AG, Zug, new Basel</en>
+        <it>Cambiamenti J&amp;A Consulting and Management AG, Zug, nuovo Basel</it>
+        <fr>Mutation J&amp;A Consulting and Management AG, Zug, nouveau Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/d0827196-7b77-40fd-b55a-4cd18fb99667/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>d0827196-7b77-40fd-b55a-4cd18fb99667</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371148</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation laverna gmbh, Basel</de>
+        <en>Change laverna gmbh, Basel</en>
+        <it>Cambiamenti laverna gmbh, Basel</it>
+        <fr>Mutation laverna gmbh, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/ac1477c3-fadc-4809-8aeb-e51afe57ed45/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>ac1477c3-fadc-4809-8aeb-e51afe57ed45</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371155</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation Tribolet Architecture GmbH, Basel, neu Tribolet Architecture GmbH in Liquidation</de>
+        <en>Change Tribolet Architecture GmbH, Basel, new Tribolet Architecture GmbH in Liquidation</en>
+        <it>Cambiamenti Tribolet Architecture GmbH, Basel, nuovo Tribolet Architecture GmbH in Liquidation</it>
+        <fr>Mutation Tribolet Architecture GmbH, Basel, nouveau Tribolet Architecture GmbH in Liquidation</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f5caee5b-dbbe-4979-a820-9860441f510a/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>f5caee5b-dbbe-4979-a820-9860441f510a</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371151</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation Regent Beleuchtungskörper AG, Basel</de>
+        <en>Change Regent Beleuchtungskörper AG, Basel</en>
+        <it>Cambiamenti Regent Beleuchtungskörper AG, Basel</it>
+        <fr>Mutation Regent Beleuchtungskörper AG, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/bc06a618-9709-4440-b81a-7053554ac7b2/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>bc06a618-9709-4440-b81a-7053554ac7b2</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371146</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation Handelskammer beider Basel, Basel</de>
+        <en>Change Handelskammer beider Basel, Basel</en>
+        <it>Cambiamenti Handelskammer beider Basel, Basel</it>
+        <fr>Mutation Handelskammer beider Basel, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/966eead5-aa2f-4f79-b105-ec611268be80/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>966eead5-aa2f-4f79-b105-ec611268be80</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371191</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SG</cantons>
+      <title>
+        <de>Mutation Enea GmbH, Rapperswil-Jona</de>
+        <en>Change Enea GmbH, Rapperswil-Jona</en>
+        <it>Cambiamenti Enea GmbH, Rapperswil-Jona</it>
+        <fr>Mutation Enea GmbH, Rapperswil-Jona</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/05744891-b7ae-46fb-b324-31fed5121437/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>05744891-b7ae-46fb-b324-31fed5121437</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371113</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Torrec III GmbH, Zug</de>
+        <en>Change Torrec III GmbH, Zug</en>
+        <it>Cambiamenti Torrec III GmbH, Zug</it>
+        <fr>Mutation Torrec III GmbH, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/7c530577-b73f-490a-9d30-f6fac7018417/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>7c530577-b73f-490a-9d30-f6fac7018417</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371107</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Spectrum Consulting AG, Cham</de>
+        <en>Change Spectrum Consulting AG, Cham</en>
+        <it>Cambiamenti Spectrum Consulting AG, Cham</it>
+        <fr>Mutation Spectrum Consulting AG, Cham</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/89fcf6da-3f8c-4f3a-b663-339315608a76/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>89fcf6da-3f8c-4f3a-b663-339315608a76</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371132</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation ALIBO KY GmbH, Basel</de>
+        <en>Change ALIBO KY GmbH, Basel</en>
+        <it>Cambiamenti ALIBO KY GmbH, Basel</it>
+        <fr>Mutation ALIBO KY GmbH, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/c7b637f0-1d90-42c3-af2e-8cb09b096a28/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>c7b637f0-1d90-42c3-af2e-8cb09b096a28</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371122</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation J&amp;A Consulting and Management AG, Zug, neu Basel</de>
+        <en>Change J&amp;A Consulting and Management AG, Zug, new Basel</en>
+        <it>Cambiamenti J&amp;A Consulting and Management AG, Zug, nuovo Basel</it>
+        <fr>Mutation J&amp;A Consulting and Management AG, Zug, nouveau Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/0d0763b5-af8c-4bab-8e4e-403b8e9a96a2/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>0d0763b5-af8c-4bab-8e4e-403b8e9a96a2</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371085</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Global Eleven GmbH, Zug</de>
+        <en>Change Global Eleven GmbH, Zug</en>
+        <it>Cambiamenti Global Eleven GmbH, Zug</it>
+        <fr>Mutation Global Eleven GmbH, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f593c1f1-55b4-4389-a3e6-628e2a54d101/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>f593c1f1-55b4-4389-a3e6-628e2a54d101</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371141</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation FortUna Treuhand GmbH, Basel</de>
+        <en>Change FortUna Treuhand GmbH, Basel</en>
+        <it>Cambiamenti FortUna Treuhand GmbH, Basel</it>
+        <fr>Mutation FortUna Treuhand GmbH, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/749f6788-a22f-42b1-b37e-e7b0ec71e1df/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>749f6788-a22f-42b1-b37e-e7b0ec71e1df</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371108</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation SRS Properties AG, Zug</de>
+        <en>Change SRS Properties AG, Zug</en>
+        <it>Cambiamenti SRS Properties AG, Zug</it>
+        <fr>Mutation SRS Properties AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/db94867a-3d23-47b9-911e-7d086ea2e95e/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>db94867a-3d23-47b9-911e-7d086ea2e95e</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371105</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation SGE Associates AG, Zug</de>
+        <en>Change SGE Associates AG, Zug</en>
+        <it>Cambiamenti SGE Associates AG, Zug</it>
+        <fr>Mutation SGE Associates AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/0d8c3ef6-d535-4798-8cbb-54f453b27291/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>0d8c3ef6-d535-4798-8cbb-54f453b27291</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371116</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Wisca Immo SA, Walchwil</de>
+        <en>Change Wisca Immo SA, Walchwil</en>
+        <it>Cambiamenti Wisca Immo SA, Walchwil</it>
+        <fr>Mutation Wisca Immo SA, Walchwil</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/aa2e2d47-f8a8-40b8-a81a-c590dc7f4c26/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>aa2e2d47-f8a8-40b8-a81a-c590dc7f4c26</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371134</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>BS</cantons>
+      <title>
+        <de>Mutation C. &amp; T. Marcolli-Stiftung, Basel</de>
+        <en>Change C. &amp; T. Marcolli-Stiftung, Basel</en>
+        <it>Cambiamenti C. &amp; T. Marcolli-Stiftung, Basel</it>
+        <fr>Mutation C. &amp; T. Marcolli-Stiftung, Basel</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/a873b219-b119-46a6-b4f6-77fd8c7c1dbc/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>a873b219-b119-46a6-b4f6-77fd8c7c1dbc</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371097</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation REGENERATE AG, Zug</de>
+        <en>Change REGENERATE AG, Zug</en>
+        <it>Cambiamenti REGENERATE AG, Zug</it>
+        <fr>Mutation REGENERATE AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/ecb9eae1-711e-48a2-950a-05f59647eca9/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>ecb9eae1-711e-48a2-950a-05f59647eca9</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371084</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Global 6 Group GmbH, Zug</de>
+        <en>Change Global 6 Group GmbH, Zug</en>
+        <it>Cambiamenti Global 6 Group GmbH, Zug</it>
+        <fr>Mutation Global 6 Group GmbH, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/4c024aa3-685c-4fb5-8368-69059778094d/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>4c024aa3-685c-4fb5-8368-69059778094d</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371087</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation IMT (Industrial Metal Trade) AG, Zug</de>
+        <en>Change IMT (Industrial Metal Trade) AG, Zug</en>
+        <it>Cambiamenti IMT (Industrial Metal Trade) AG, Zug</it>
+        <fr>Mutation IMT (Industrial Metal Trade) AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/e88908a4-2cb9-442c-b29e-2a1b567fcdf5/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>e88908a4-2cb9-442c-b29e-2a1b567fcdf5</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371044</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>OW</cantons>
+      <title>
+        <de>Mutation Mailima Holding SA, Sarnen</de>
+        <en>Change Mailima Holding SA, Sarnen</en>
+        <it>Cambiamenti Mailima Holding SA, Sarnen</it>
+        <fr>Mutation Mailima Holding SA, Sarnen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/5b268d7b-c55b-41e2-8a82-ff3d8304ca12/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>5b268d7b-c55b-41e2-8a82-ff3d8304ca12</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371076</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Calgacus AG, Zug</de>
+        <en>Change Calgacus AG, Zug</en>
+        <it>Cambiamenti Calgacus AG, Zug</it>
+        <fr>Mutation Calgacus AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/fd4a1745-5b93-475a-8100-c54a5bc8ea90/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>fd4a1745-5b93-475a-8100-c54a5bc8ea90</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371093</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation NEW ITIME AG, Zug</de>
+        <en>Change NEW ITIME AG, Zug</en>
+        <it>Cambiamenti NEW ITIME AG, Zug</it>
+        <fr>Mutation NEW ITIME AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/810e4c4e-3505-4820-b27c-423cf425c464/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>810e4c4e-3505-4820-b27c-423cf425c464</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371068</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Activ Commerce GmbH, Zug, neu Baar</de>
+        <en>Change Activ Commerce GmbH, Zug, new Baar</en>
+        <it>Cambiamenti Activ Commerce GmbH, Zug, nuovo Baar</it>
+        <fr>Mutation Activ Commerce GmbH, Zug, nouveau Baar</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/52fccb99-4967-4772-9cc4-8b62608f976d/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>52fccb99-4967-4772-9cc4-8b62608f976d</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371080</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation digitaliKa AG, Zug</de>
+        <en>Change digitaliKa AG, Zug</en>
+        <it>Cambiamenti digitaliKa AG, Zug</it>
+        <fr>Mutation digitaliKa AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/5c7343cb-a437-40c5-a090-a35f4b20d10c/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>5c7343cb-a437-40c5-a090-a35f4b20d10c</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371091</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Makosh AG, Zug</de>
+        <en>Change Makosh AG, Zug</en>
+        <it>Cambiamenti Makosh AG, Zug</it>
+        <fr>Mutation Makosh AG, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/c6f1e893-ffcd-4279-ad12-47d178589128/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>c6f1e893-ffcd-4279-ad12-47d178589128</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371103</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>ZG</cantons>
+      <title>
+        <de>Mutation Salonkee S.A., Luxembourg, Zweigniederlassung Zug, Zug</de>
+        <en>Change Salonkee S.A., Luxembourg, Zweigniederlassung Zug, Zug</en>
+        <it>Cambiamenti Salonkee S.A., Luxembourg, Zweigniederlassung Zug, Zug</it>
+        <fr>Mutation Salonkee S.A., Luxembourg, Zweigniederlassung Zug, Zug</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/38b1e8ee-c363-4440-a4f6-72c5747ec2dc/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>38b1e8ee-c363-4440-a4f6-72c5747ec2dc</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371043</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>OW</cantons>
+      <title>
+        <de>Mutation Karl Enz GmbH, Lungern</de>
+        <en>Change Karl Enz GmbH, Lungern</en>
+        <it>Cambiamenti Karl Enz GmbH, Lungern</it>
+        <fr>Mutation Karl Enz GmbH, Lungern</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/6baf80bc-87dc-4967-8244-63967a4529e3/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>6baf80bc-87dc-4967-8244-63967a4529e3</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371042</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>OW</cantons>
+      <title>
+        <de>Mutation JET MANAGEMENT HOLDING AG, Sarnen</de>
+        <en>Change JET MANAGEMENT HOLDING AG, Sarnen</en>
+        <it>Cambiamenti JET MANAGEMENT HOLDING AG, Sarnen</it>
+        <fr>Mutation JET MANAGEMENT HOLDING AG, Sarnen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/f98f9e20-07d9-4cbb-ac8d-3c4a8feb5cb8/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>f98f9e20-07d9-4cbb-ac8d-3c4a8feb5cb8</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371034</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SZ</cantons>
+      <title>
+        <de>Mutation topelektro gmbh, Steinen</de>
+        <en>Change topelektro gmbh, Steinen</en>
+        <it>Cambiamenti topelektro gmbh, Steinen</it>
+        <fr>Mutation topelektro gmbh, Steinen</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/c1373fec-e3b8-4269-9da9-295d28852c91/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>c1373fec-e3b8-4269-9da9-295d28852c91</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371030</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SZ</cantons>
+      <title>
+        <de>Mutation Pfarrkirchenstiftung Gersau, Gersau</de>
+        <en>Change Pfarrkirchenstiftung Gersau, Gersau</en>
+        <it>Cambiamenti Pfarrkirchenstiftung Gersau, Gersau</it>
+        <fr>Mutation Pfarrkirchenstiftung Gersau, Gersau</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/8ca78291-98c9-4a3c-953f-f6ebb5b75fbc/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>8ca78291-98c9-4a3c-953f-f6ebb5b75fbc</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371033</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SZ</cantons>
+      <title>
+        <de>Mutation RH Roger Heimgartner Holding AG, Wollerau</de>
+        <en>Change RH Roger Heimgartner Holding AG, Wollerau</en>
+        <it>Cambiamenti RH Roger Heimgartner Holding AG, Wollerau</it>
+        <fr>Mutation RH Roger Heimgartner Holding AG, Wollerau</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/9486c6c5-52f8-4b5d-8610-8b260fb8c6aa/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>9486c6c5-52f8-4b5d-8610-8b260fb8c6aa</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371027</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>SZ</cantons>
+      <title>
+        <de>Mutation LGT ILS Partners AG, Freienbach</de>
+        <en>Change LGT ILS Partners AG, Freienbach</en>
+        <it>Cambiamenti LGT ILS Partners AG, Freienbach</it>
+        <fr>Mutation LGT ILS Partners AG, Freienbach</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/e166b7ed-7790-4869-949b-266dda841e63/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>e166b7ed-7790-4869-949b-266dda841e63</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005371009</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>UR</cantons>
+      <title>
+        <de>Mutation SPRP GmbH, Altdorf (UR)</de>
+        <en>Change SPRP GmbH, Altdorf (UR)</en>
+        <it>Cambiamenti SPRP GmbH, Altdorf (UR)</it>
+        <fr>Mutation SPRP GmbH, Altdorf (UR)</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/827d83a8-cc0f-46f0-bbc6-a5167ef9ab0d/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>827d83a8-cc0f-46f0-bbc6-a5167ef9ab0d</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005370984</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>LU</cantons>
+      <title>
+        <de>Mutation swissnodes gmbh, Luzern</de>
+        <en>Change swissnodes gmbh, Luzern</en>
+        <it>Cambiamenti swissnodes gmbh, Luzern</it>
+        <fr>Mutation swissnodes gmbh, Luzern</fr>
+      </title>
+    </meta>
+  </publication>
+  <publication ref="https://amtsblattportal.ch/api/v1/publications/e6b3ba5f-911e-4a0a-b20a-78b00599d5d3/xml" schemaLocation="https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+    <meta>
+      <id>e6b3ba5f-911e-4a0a-b20a-78b00599d5d3</id>
+      <rubric>HR</rubric>
+      <subRubric>HR02</subRubric>
+      <language>de</language>
+      <registrationOffice>
+        <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+        <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+        <street>Bundesrain</street>
+        <streetNumber>20</streetNumber>
+        <swissZipCode>3003</swissZipCode>
+        <town>Bern</town>
+        <containsPostOfficeBox>false</containsPostOfficeBox>
+      </registrationOffice>
+      <publicationNumber>HR02-1005370983</publicationNumber>
+      <publicationState>PUBLISHED</publicationState>
+      <publicationDate>2021-12-30</publicationDate>
+      <primaryTenantCode>shab</primaryTenantCode>
+      <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+      <cantons>LU</cantons>
+      <title>
+        <de>Mutation Sterbekasse-Stiftung des Personalverbands der Centralschweizerischen Kraftwerke, des Elektrizitätswerks Altdorf, des Elektrizitätswerks Schwyz, Luzern</de>
+        <en>Change Sterbekasse-Stiftung des Personalverbands der Centralschweizerischen Kraftwerke, des Elektrizitätswerks Altdorf, des Elektrizitätswerks Schwyz, Luzern</en>
+        <it>Cambiamenti Sterbekasse-Stiftung des Personalverbands der Centralschweizerischen Kraftwerke, des Elektrizitätswerks Altdorf, des Elektrizitätswerks Schwyz, Luzern</it>
+        <fr>Mutation Sterbekasse-Stiftung des Personalverbands der Centralschweizerischen Kraftwerke, des Elektrizitätswerks Altdorf, des Elektrizitätswerks Schwyz, Luzern</fr>
+      </title>
+    </meta>
+  </publication>
+</bulk:bulk-export>

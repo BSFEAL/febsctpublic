@@ -69,13 +69,18 @@ def get_data_interval(fusc_url, start_date, stop_date, page, logger):
     url = prepare_daily_list_url(fusc_url, start_date, stop_date, page)
 
     response = requests.get(url)
+
     xpars = xmltodict.parse(response.text)
     output_dict = json.loads(json.dumps(xpars["bulk:bulk-export"]))
+    print(output_dict.keys())
 
     for l in output_dict["publication"]:
+
         url_tmp = l["@ref"]
+
         try:
             ele = get_element(url_tmp)
+
         except Exception as e:
             logger.error(str(e))
             continue
@@ -84,10 +89,11 @@ def get_data_interval(fusc_url, start_date, stop_date, page, logger):
         element = output_dict[key]
         meta = element["meta"]
         content = element["content"]
+
         section = key.split(":")[0].split("-")[0]
-        print(len(out_global), end="\r")
+
         out_global[url_tmp] = {"section": section, "meta": meta, "content": content}
-    print()
+    print(len(out_global))
     return
 
 
@@ -104,7 +110,7 @@ def do_round(logger, day=None, day_end=None):
             logger.debug("Loading data from FUSC")
             if not day_end:
                 day_end = datetime.now().strftime(DATE_FORMAT)
-            print(day_end)
+
             get_data_interval(
                 fusc_query_url,
                 day,
@@ -145,7 +151,7 @@ def export_fusc(fr, to):
         do_round(logger, day=fr, day_end=to)
     except Exception as e:
         logger.error("Main Exception: " + str(e))
-
+    print(len(out_global))
     with open("{}.json".format(to), "w") as jf:
         json.dump(out_global, jf)
     return "{}.json".format(to)
@@ -172,6 +178,7 @@ def main():
     rep = get_report(interval=6)
     end = datetime.today() - timedelta(days=1)  # yesterday
     end = end.strftime(DATE_FORMAT)
+
     if rep["last_update"] != end:
         print("Updare interval [{} {}]".format(rep["last_update"], end))
         lf = export_fusc(rep["last_update"], end)
@@ -185,3 +192,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
