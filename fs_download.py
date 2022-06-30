@@ -67,6 +67,8 @@ def get_data_interval(fusc_url, start_date, stop_date, page, logger):
     global max
     global out_global
     url = prepare_daily_list_url(fusc_url, start_date, stop_date, page)
+    print(url)
+    
     response = requests.get(url)
     xpars = xmltodict.parse(response.text)
     output_dict = json.loads(json.dumps(xpars["bulk:bulk-export"]))
@@ -99,8 +101,8 @@ def do_round(logger, day=None, day_end=None):
     global max
 
     # fusc_query_url = conf["FUSC"]["rest_query_url"]
-    fusc_query_url = "https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}"
-    print(fusc_query_url)
+    fusc_query_url = "https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}antons=TI&cantons=GR"
+    #print(fusc_query_url)
     page = 0
     try:
         while True:
@@ -108,7 +110,7 @@ def do_round(logger, day=None, day_end=None):
             logger.debug("Loading data from FUSC")
             if not day_end:
                 day_end = datetime.now().strftime(DATE_FORMAT)
-            print(fusc_query_url)
+            #print(fusc_query_url)
             get_data_interval(
                 fusc_query_url,
                 day,
