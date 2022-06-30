@@ -100,7 +100,7 @@ def do_round(logger, day=None, day_end=None):
 
     # fusc_query_url = conf["FUSC"]["rest_query_url"]
     fusc_query_url = "https://amtsblattportal.ch/api/v1/publications/xml?publicationStates=PUBLISHED&publicationDate.start={}&publicationDate.end={}&page={}"
-
+    print(fusc_query_url)
     page = 0
     try:
         while True:
@@ -171,6 +171,8 @@ def store_report(rep):
     with open(REPORT_JSON, "w") as jf:
         return json.dump(rep, jf)
 
+def main2():
+    lf = export_fusc("2022-06-29", "2022-06-30")
 
 def main():
     rep = get_report(interval=6)
@@ -189,5 +191,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main2()
 
