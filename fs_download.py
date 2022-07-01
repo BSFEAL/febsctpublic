@@ -70,6 +70,7 @@ def get_data_interval(fusc_url, start_date, stop_date, page, logger):
     print(url)
     
     response = requests.get(url)
+    print(response)
     xpars = xmltodict.parse(response.text)
     output_dict = json.loads(json.dumps(xpars["bulk:bulk-export"]))
     print(output_dict.keys())
