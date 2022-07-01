@@ -89,11 +89,12 @@ def get_data_interval(fusc_url, start_date, stop_date, page, logger):
         key = list(output_dict.keys())[0]
         element = output_dict[key]
         meta = element["meta"]
-        content = element["content"]
-        print(content.keys())
+        
+	#content = element["content"]
+        #print(content.keys())
         section = key.split(":")[0].split("-")[0]
 
-        out_global[url_tmp] = {"section": section, "meta": meta, "content": content}
+        out_global[url_tmp] = {"section": section, "meta": meta}
     print(len(out_global))
     return
 
