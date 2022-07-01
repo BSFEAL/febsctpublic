@@ -175,7 +175,7 @@ def store_report(rep):
         return json.dump(rep, jf)
 
 def main2():
-    lf = export_fusc("2022-06-23", "2022-06-24")
+    lf = export_fusc("2022-06-26", "2022-06-27")
 
 def main():
     rep = get_report(interval=6)
@@ -194,5 +194,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main2()
 
